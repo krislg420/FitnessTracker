@@ -23,3 +23,12 @@ The user should be able to:
 
   * View multiple the combined weight of multiple exercises on the `stats` page.
 
+##GitHub Link:
+https://github.com/krislg420/FitnessTracker
+
+##Deployed Link:
+https://krislg420.github.io/FitnessTracker/
+
+
+## ScreenShot
+![098EF40A-3F8C-4F9F-9C8C-80BF5905EB80_1_105_c](https://user-images.githubusercontent.com/57952065/74580390-5128a500-4f69-11ea-8bbf-45aa2b7d5e4f.jpeg)
